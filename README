@@ -1,0 +1,22 @@
+
+                                 OpenGL Forklift                               
+
+--------------------------------------------------------------------------------
+
+Section 1) Dependencies
+
+This program requires the Python OpenGL bindings (PyOpenGL) and the Python 
+Imaging library (PIL).
+
+
+
+--------------------------------------------------------------------------------
+
+Section 2) Run
+
+Usage: python main.py
+
+
+
+--------------------------------------------------------------------------------
+
